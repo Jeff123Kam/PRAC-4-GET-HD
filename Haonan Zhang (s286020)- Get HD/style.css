@@ -75,6 +75,7 @@ a:active{ color:#30F;}
     transform: translateX(-200px);
     transition-delay: 0.2s;
     color: beige;
+    font-size:16px;
 }
 .animate-text{
     opacity:0;

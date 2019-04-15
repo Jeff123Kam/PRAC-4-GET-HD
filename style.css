@@ -20,12 +20,12 @@ body{
 .container{
   box-shadow:0 4px 8px 0 rgba(0,0,0,0.6);
   transition:0.2s;
-  width:550px;
+  width: 38%;
   background:#fff;
   text-align:left;
   font-size:18px;
   float:left;
-  margin:13px;
+  margin-left: 28%;
   padding: 60px 25px 25px 25px;;
   align-items: center;
   align-content: center;

@@ -2,6 +2,14 @@ body{
   background: #f7f5f2;
 }
 
+.heading{
+  margin-right: -3px;
+  text-align: center;
+  font-size: 50px;
+  color: #333;
+  font-family: fantasy;
+}
+
 .main{
   width:1000px;
   margin:auto;
@@ -24,4 +32,3 @@ body{
   color: #15288c;
   text-align: center;
 }
-

@@ -93,12 +93,77 @@ a:active{ color:#30F;}
     opacity:1;
 }
 
-@media screen and (min-width: 500px) {
-    .card-wrapper{
-        width: 100%;
-        float: left;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
+@media (max-width: 1280px){
+    .registration_c {
+        width: 30%;
+        padding: 30px 40px;
     }
+}
+
+@media (max-width: 1080px){
+    .registration_c {
+        width: 37%;
+    }
+}
+
+@media (max-width: 800px){
+    .registration_c{
+        width: 47%;
+    }
+}
+@media (max-width: 667px){
+    .registration_c {
+        width: 57%;
+    }
+}
+
+@media (max-width: 480px){
+    .registration_c {
+        width: 67%;
+    }
+    form h2{
+        font-size: 20px;
+    }
+    .item input{
+        width: 84%;
+    }
+}
+
+@media (max-width:420px){
+    .radio{
+        width: auto;
+    }
+    .item{
+        width: 100%;
+    }
+    .item input{
+        width: 90%;
+    }
+    .item_input_s {
+        width:200px!important;
+    }
+}
+@media (max-width: 384px){
+    .registration_c {
+        padding: 25px 25px;
+        width: 77%;
+    }
+    .item_input_s {
+        width:220px!important;
+    }
+}
+@media (max-width: 360px) {
+    .item_input_s {
+        width:200px!important;
+    }
+}
+@media (max-width:330px){
+    .item_input_s{
+        width: 230px!important;
+    }
+}
+@media(max-width: 320px) {
+    .item_input_s {
+        width: 180px!important;
+    }
+}

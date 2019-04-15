@@ -13,6 +13,31 @@ h1{
   text-align: center;
 }
 
+.card{
+  box-shadow:0 4px 8px 0 rgba(0,0,0,0.6);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  width:360px;
+  font-size: 16px;
+  margin: 30px;
+  height: 400px;
+  background-color: #ebee
+  f8;
+}
+
+.card-img{
+  height: 200px;
+}
+
+.container{
+  height: 100px;
+  color: #333;
+}
+
+
 .tab {
   float: left;
   border: 3px solid black;

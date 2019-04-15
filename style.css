@@ -3,8 +3,7 @@ body {
   background-size: cover;
 }
 
-.heading{
-  font-size: 223%;
+h1{
   font-style: New-Times Roman;
   text-align: center;
 }
@@ -51,18 +50,6 @@ body {
   background-color: black;
 }
 
-/* Style the tab content */
-
-.tabcontent {
-  float: left;
-  padding: 0px 12px;
-  border: 3px solid black;
-  background-color: black;
-  width: 80%;
-  border-left: 3px solid black;
-  height: 300px;
-  opacity: 0.9;
-}
 
 .list{
   margin:2rem 2rem;

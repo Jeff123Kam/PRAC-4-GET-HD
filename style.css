@@ -32,3 +32,13 @@ body{
   color: #15288c;
   text-align: center;
 }
+
+@media screen and (min-width: 500px){
+  .card-wrapper{
+    width: 100%;
+    float: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
